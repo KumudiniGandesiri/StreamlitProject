@@ -30,7 +30,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-repo/streamlit-app.git
+git clone https://github.com/KumudiniGandesiri/StreamlitProject.git
 cd streamlit-app
 Create and activate a virtual environment (optional):
 
